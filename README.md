@@ -1,2 +1,5 @@
 # hello-world
-Starter repository
+
+Hello world!
+
+First changes to the starter repository.
